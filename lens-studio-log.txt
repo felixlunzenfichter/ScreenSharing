@@ -1,0 +1,349 @@
+13:45:21 Lens has been reset
+13:45:23 Automatic assets directory synchronization is now enabled
+13:45:54 Project loaded: ScreenSharing in 0 sec. Files loaded total / cached: 14/6
+13:45:54 Starting TypeScript compilation...
+13:45:54 Lens has been reset
+13:45:54 Automatic assets directory synchronization is now enabled
+13:45:55 Lens has been reset
+13:45:55 TypeScript compilation failed!
+13:45:55 Assets/Untitled TypeScript.ts(5,14): error TS2339: Property 'image' does not exist on type 'MockScreenSharingService'.
+13:45:55 Assets/Untitled TypeScript.ts(6,14): error TS2339: Property 'isRunning' does not exist on type 'MockScreenSharingService'.
+13:45:55 Assets/Untitled TypeScript.ts(7,14): error TS2551: Property 'updateInterval' does not exist on type 'MockScreenSharingService'. Did you mean 'setUpdateInterval'?
+13:45:55 Assets/Untitled TypeScript.ts(8,14): error TS2339: Property 'width' does not exist on type 'MockScreenSharingService'.
+13:45:55 Assets/Untitled TypeScript.ts(9,14): error TS2339: Property 'height' does not exist on type 'MockScreenSharingService'.
+13:45:55 Assets/Untitled TypeScript.ts(10,14): error TS2339: Property 'frameCounter' does not exist on type 'MockScreenSharingService'.
+13:45:55 Assets/Untitled TypeScript.ts(13,14): error TS2339: Property 'proceduralTexture' does not exist on type 'MockScreenSharingService'.
+13:45:55 Assets/Untitled TypeScript.ts(17,67): error TS2554: Expected 3 arguments, but got 0.
+13:45:55 Assets/Untitled TypeScript.ts(18,35): error TS2339: Property 'size' does not exist on type 'Texture'.
+13:45:55 Assets/Untitled TypeScript.ts(18,56): error TS2339: Property 'width' does not exist on type 'MockScreenSharingService'.
+13:45:55 Assets/Untitled TypeScript.ts(18,68): error TS2339: Property 'height' does not exist on type 'MockScreenSharingService'.
+13:45:55 Assets/Untitled TypeScript.ts(19,71): error TS2339: Property 'Control' does not exist on type 'typeof ProceduralTextureProvider'.
+13:45:55 Assets/Untitled TypeScript.ts(21,59): error TS2339: Property 'texture' does not exist on type 'Texture'.
+13:45:55 Assets/Untitled TypeScript.ts(26,45): error TS2339: Property 'width' does not exist on type 'MockScreenSharingService'.
+13:45:55 Assets/Untitled TypeScript.ts(26,58): error TS2339: Property 'height' does not exist on type 'MockScreenSharingService'.
+13:45:55 Assets/Untitled TypeScript.ts(29,25): error TS2339: Property 'frameCounter' does not exist on type 'MockScreenSharingService'.
+13:45:55 Assets/Untitled TypeScript.ts(31,34): error TS2339: Property 'height' does not exist on type 'MockScreenSharingService'.
+13:45:55 Assets/Untitled TypeScript.ts(32,38): error TS2339: Property 'width' does not exist on type 'MockScreenSharingService'.
+13:45:55 Assets/Untitled TypeScript.ts(33,39): error TS2339: Property 'width' does not exist on type 'MockScreenSharingService'.
+13:45:55 Assets/Untitled TypeScript.ts(36,44): error TS2339: Property 'width' does not exist on type 'MockScreenSharingService'.
+13:45:55 Assets/Untitled TypeScript.ts(37,44): error TS2339: Property 'height' does not exist on type 'MockScreenSharingService'.
+13:45:55 Assets/Untitled TypeScript.ts(55,18): error TS2339: Property 'isRunning' does not exist on type 'MockScreenSharingService'.
+13:45:55 Assets/Untitled TypeScript.ts(56,14): error TS2339: Property 'isRunning' does not exist on type 'MockScreenSharingService'.
+13:45:55 Assets/Untitled TypeScript.ts(59,14): error TS2339: Property 'image' does not exist on type 'MockScreenSharingService'.
+13:45:55 Assets/Untitled TypeScript.ts(59,57): error TS2339: Property 'proceduralTexture' does not exist on type 'MockScreenSharingService'.
+13:45:55 Assets/Untitled TypeScript.ts(66,14): error TS2339: Property 'isRunning' does not exist on type 'MockScreenSharingService'.
+13:45:55 Assets/Untitled TypeScript.ts(70,19): error TS2339: Property 'isRunning' does not exist on type 'MockScreenSharingService'.
+13:45:55 Assets/Untitled TypeScript.ts(72,35): error TS2339: Property 'createEvent' does not exist on type '(target: any, key: string, index: number) => void'.
+13:45:55 Assets/Untitled TypeScript.ts(77,33): error TS2551: Property 'updateInterval' does not exist on type 'MockScreenSharingService'. Did you mean 'setUpdateInterval'?
+13:45:55 Assets/Untitled TypeScript.ts(85,14): error TS2339: Property 'proceduralTexture' does not exist on type 'MockScreenSharingService'.
+13:45:55 Assets/Untitled TypeScript.ts(87,14): error TS2339: Property 'frameCounter' does not exist on type 'MockScreenSharingService'.
+13:45:55 Assets/Untitled TypeScript.ts(88,52): error TS2339: Property 'frameCounter' does not exist on type 'MockScreenSharingService'.
+13:45:55 Assets/Untitled TypeScript.ts(92,14): error TS2551: Property 'updateInterval' does not exist on type 'MockScreenSharingService'. Did you mean 'setUpdateInterval'?
+13:45:55 Assets/Untitled TypeScript.ts(97,28): error TS2339: Property 'width' does not exist on type 'MockScreenSharingService'.
+13:45:55 Assets/Untitled TypeScript.ts(97,53): error TS2339: Property 'height' does not exist on type 'MockScreenSharingService'.
+13:45:55 Assets/Untitled TypeScript.ts(98,18): error TS2339: Property 'width' does not exist on type 'MockScreenSharingService'.
+13:45:55 Assets/Untitled TypeScript.ts(99,18): error TS2339: Property 'height' does not exist on type 'MockScreenSharingService'.
+13:45:55 Assets/Untitled TypeScript.ts(101,18): error TS2339: Property 'proceduralTexture' does not exist on type 'MockScreenSharingService'.
+13:45:55 Assets/Untitled TypeScript.ts(102,18): error TS2339: Property 'image' does not exist on type 'MockScreenSharingService'.
+13:45:55 Assets/Untitled TypeScript.ts(102,61): error TS2339: Property 'proceduralTexture' does not exist on type 'MockScreenSharingService'.
+13:45:55 Assets/Untitled TypeScript.ts(105,14): error TS2339: Property 'proceduralTexture' does not exist on type 'MockScreenSharingService'.
+13:45:55 Lens has been reset
+13:45:55 Assets/Untitled TypeScript.ts(111,55): error TS2339: Property 'image' does not exist on type '(target: any, key: string, index: number) => void'.
+13:45:55 Assets/Untitled TypeScript.ts(114,8): error TS2339: Property 'createEvent' does not exist on type '(target: any, key: string, index: number) => void'.
+13:45:55 Lens has been reset
+13:45:55 Lens has been reset
+13:45:55 Lens has been reset
+13:45:55 Lens has been reset
+13:45:55 Lens has been reset
+13:45:55 Lens has been reset
+13:45:55 Lens has been reset
+13:45:55 Lens has been reset more than 10 times in a row
+13:49:07 Spectacles connected to USB
+13:49:27 Spectacles is trying to connect to Lens Studio through a wired connection. Make sure they are awake.
+13:49:27 Spectacles couldn’t connect to Lens Studio within 4 seconds. Please ensure that you are logged in with the same account in Lens Studio and Spectacles App and that your Spectacles are online and awake before connecting.
+13:49:28 Spectacles has successfully connected to Lens Studio with a wired connection.
+13:49:31 TypeScript is not compiled
+13:49:31 The Lens was not sent. Please fix the issues or try again later:
+13:49:31 TypeScript is not compiled
+13:49:38 TypeScript is not compiled
+13:49:38 The Lens was not sent. Please fix the issues or try again later:
+13:49:38 TypeScript is not compiled
+13:55:46 TypeScript is not compiled
+13:55:46 The Lens was not sent. Please fix the issues or try again later:
+13:55:46 TypeScript is not compiled
+13:56:41 TypeScript is not compiled
+13:56:41 The Lens was not sent. Please fix the issues or try again later:
+13:56:41 TypeScript is not compiled
+13:56:48 TypeScript is not compiled
+13:56:48 The Lens was not sent. Please fix the issues or try again later:
+13:56:48 TypeScript is not compiled
+13:56:49 TypeScript is not compiled
+13:56:49 The Lens was not sent. Please fix the issues or try again later:
+13:56:49 TypeScript is not compiled
+13:57:14 TypeScript is not compiled
+13:57:14 The Lens was not sent. Please fix the issues or try again later:
+13:57:14 TypeScript is not compiled
+13:58:41 TypeScript is not compiled
+13:58:41 The Lens was not sent. Please fix the issues or try again later:
+13:58:41 TypeScript is not compiled
+14:00:24 TypeScript is not compiled
+14:00:24 The Lens was not sent. Please fix the issues or try again later:
+14:00:24 TypeScript is not compiled
+14:00:44 TypeScript is not compiled
+14:00:44 The Lens was not sent. Please fix the issues or try again later:
+14:00:44 TypeScript is not compiled
+14:00:49 TypeScript is not compiled
+14:00:49 The Lens was not sent. Please fix the issues or try again later:
+14:00:49 TypeScript is not compiled
+14:03:08 Source file was changed, reimporting Untitled TypeScript.ts
+14:03:08 Starting TypeScript compilation...
+14:03:09 TypeScript compilation failed!
+14:03:09 Assets/Untitled TypeScript.ts(5,14): error TS2339: Property 'image' does not exist on type 'MockScreenSharingService'.
+14:03:09 Assets/Untitled TypeScript.ts(6,14): error TS2339: Property 'isRunning' does not exist on type 'MockScreenSharingService'.
+14:03:09 Assets/Untitled TypeScript.ts(7,14): error TS2551: Property 'updateInterval' does not exist on type 'MockScreenSharingService'. Did you mean 'setUpdateInterval'?
+14:03:09 Assets/Untitled TypeScript.ts(8,14): error TS2339: Property 'width' does not exist on type 'MockScreenSharingService'.
+14:03:09 Assets/Untitled TypeScript.ts(9,14): error TS2339: Property 'height' does not exist on type 'MockScreenSharingService'.
+14:03:09 Assets/Untitled TypeScript.ts(10,14): error TS2339: Property 'frameCounter' does not exist on type 'MockScreenSharingService'.
+14:03:09 Assets/Untitled TypeScript.ts(13,14): error TS2339: Property 'proceduralTexture' does not exist on type 'MockScreenSharingService'.
+14:03:09 Assets/Untitled TypeScript.ts(17,67): error TS2554: Expected 3 arguments, but got 0.
+14:03:09 Assets/Untitled TypeScript.ts(18,35): error TS2339: Property 'size' does not exist on type 'Texture'.
+14:03:09 Assets/Untitled TypeScript.ts(18,56): error TS2339: Property 'width' does not exist on type 'MockScreenSharingService'.
+14:03:09 Assets/Untitled TypeScript.ts(18,68): error TS2339: Property 'height' does not exist on type 'MockScreenSharingService'.
+14:03:09 Assets/Untitled TypeScript.ts(19,71): error TS2339: Property 'Control' does not exist on type 'typeof ProceduralTextureProvider'.
+14:03:09 Assets/Untitled TypeScript.ts(21,59): error TS2339: Property 'texture' does not exist on type 'Texture'.
+14:03:09 Assets/Untitled TypeScript.ts(26,45): error TS2339: Property 'width' does not exist on type 'MockScreenSharingService'.
+14:03:09 Assets/Untitled TypeScript.ts(26,58): error TS2339: Property 'height' does not exist on type 'MockScreenSharingService'.
+14:03:09 Assets/Untitled TypeScript.ts(29,25): error TS2339: Property 'frameCounter' does not exist on type 'MockScreenSharingService'.
+14:03:09 Assets/Untitled TypeScript.ts(31,34): error TS2339: Property 'height' does not exist on type 'MockScreenSharingService'.
+14:03:09 Assets/Untitled TypeScript.ts(32,38): error TS2339: Property 'width' does not exist on type 'MockScreenSharingService'.
+14:03:09 Assets/Untitled TypeScript.ts(33,39): error TS2339: Property 'width' does not exist on type 'MockScreenSharingService'.
+14:03:09 Assets/Untitled TypeScript.ts(36,44): error TS2339: Property 'width' does not exist on type 'MockScreenSharingService'.
+14:03:09 Assets/Untitled TypeScript.ts(37,44): error TS2339: Property 'height' does not exist on type 'MockScreenSharingService'.
+14:03:09 Assets/Untitled TypeScript.ts(55,18): error TS2339: Property 'isRunning' does not exist on type 'MockScreenSharingService'.
+14:03:09 Assets/Untitled TypeScript.ts(56,14): error TS2339: Property 'isRunning' does not exist on type 'MockScreenSharingService'.
+14:03:09 Assets/Untitled TypeScript.ts(59,14): error TS2339: Property 'image' does not exist on type 'MockScreenSharingService'.
+14:03:09 Assets/Untitled TypeScript.ts(59,57): error TS2339: Property 'proceduralTexture' does not exist on type 'MockScreenSharingService'.
+14:03:09 Assets/Untitled TypeScript.ts(66,14): error TS2339: Property 'isRunning' does not exist on type 'MockScreenSharingService'.
+14:03:09 Assets/Untitled TypeScript.ts(70,19): error TS2339: Property 'isRunning' does not exist on type 'MockScreenSharingService'.
+14:03:09 Assets/Untitled TypeScript.ts(72,35): error TS2339: Property 'createEvent' does not exist on type '(target: any, key: string, index: number) => void'.
+14:03:09 Assets/Untitled TypeScript.ts(77,33): error TS2551: Property 'updateInterval' does not exist on type 'MockScreenSharingService'. Did you mean 'setUpdateInterval'?
+14:03:09 Assets/Untitled TypeScript.ts(85,14): error TS2339: Property 'proceduralTexture' does not exist on type 'MockScreenSharingService'.
+14:03:09 Assets/Untitled TypeScript.ts(87,14): error TS2339: Property 'frameCounter' does not exist on type 'MockScreenSharingService'.
+14:03:09 Assets/Untitled TypeScript.ts(88,52): error TS2339: Property 'frameCounter' does not exist on type 'MockScreenSharingService'.
+14:03:09 Assets/Untitled TypeScript.ts(92,14): error TS2551: Property 'updateInterval' does not exist on type 'MockScreenSharingService'. Did you mean 'setUpdateInterval'?
+14:03:09 Assets/Untitled TypeScript.ts(97,28): error TS2339: Property 'width' does not exist on type 'MockScreenSharingService'.
+14:03:09 Assets/Untitled TypeScript.ts(97,53): error TS2339: Property 'height' does not exist on type 'MockScreenSharingService'.
+14:03:09 Assets/Untitled TypeScript.ts(98,18): error TS2339: Property 'width' does not exist on type 'MockScreenSharingService'.
+14:03:09 Assets/Untitled TypeScript.ts(99,18): error TS2339: Property 'height' does not exist on type 'MockScreenSharingService'.
+14:03:09 Assets/Untitled TypeScript.ts(101,18): error TS2339: Property 'proceduralTexture' does not exist on type 'MockScreenSharingService'.
+14:03:09 Assets/Untitled TypeScript.ts(102,18): error TS2339: Property 'image' does not exist on type 'MockScreenSharingService'.
+14:03:09 Assets/Untitled TypeScript.ts(102,61): error TS2339: Property 'proceduralTexture' does not exist on type 'MockScreenSharingService'.
+14:03:09 Assets/Untitled TypeScript.ts(105,14): error TS2339: Property 'proceduralTexture' does not exist on type 'MockScreenSharingService'.
+14:03:09 Assets/Untitled TypeScript.ts(111,55): error TS2339: Property 'image' does not exist on type '(target: any, key: string, index: number) => void'.
+14:03:09 Assets/Untitled TypeScript.ts(114,8): error TS2339: Property 'createEvent' does not exist on type '(target: any, key: string, index: number) => void'.
+14:34:13 Spectacles has disconnected from Lens Studio.
+14:50:34 Spectacles has disconnected from Lens Studio.
+15:08:12 Spectacles has disconnected from Lens Studio.
+15:24:42 Spectacles has disconnected from Lens Studio.
+15:41:09 Spectacles has disconnected from Lens Studio.
+15:58:47 Spectacles has disconnected from Lens Studio.
+16:03:47 Spectacles has disconnected from Lens Studio.
+16:08:47 Spectacles has disconnected from Lens Studio.
+16:26:49 Spectacles has disconnected from Lens Studio.
+16:28:07 Spectacles has disconnected from Lens Studio.
+16:43:13 [Spectacles Connection] - No user is currently logged in. Please log in to the account paired with your Spectacles device by navigating to My Lenses → Login.
+16:43:37 [Spectacles Connection] - No user is currently logged in. Please log in to the account paired with your Spectacles device by navigating to My Lenses → Login.
+16:43:53 Authorization failed. Please try again later
+16:43:53 Authorization failed. Please try again later
+16:43:53 Authorization failed. Please try again later
+16:43:56 Spectacles has successfully connected to Lens Studio with a wired connection.
+16:43:59 TypeScript is not compiled
+16:43:59 The Lens was not sent. Please fix the issues or try again later:
+16:43:59 TypeScript is not compiled
+16:52:42 Source file was changed, reimporting Untitled TypeScript.ts
+16:52:42 Starting TypeScript compilation...
+16:52:43 TypeScript compilation failed!
+16:52:43 Assets/Untitled TypeScript.ts(25,67): error TS2554: Expected 3 arguments, but got 0.
+16:52:43 Assets/Untitled TypeScript.ts(26,35): error TS2339: Property 'size' does not exist on type 'Texture'.
+16:52:43 Assets/Untitled TypeScript.ts(27,71): error TS2339: Property 'Control' does not exist on type 'typeof ProceduralTextureProvider'.
+16:52:43 Assets/Untitled TypeScript.ts(29,59): error TS2339: Property 'texture' does not exist on type 'Texture'.
+16:52:43 Assets/Untitled TypeScript.ts(80,35): error TS2339: Property 'createEvent' does not exist on type '(target: any, key: string, index: number) => void'.
+16:52:43 Assets/Untitled TypeScript.ts(119,55): error TS2339: Property 'image' does not exist on type '(target: any, key: string, index: number) => void'.
+16:52:43 Assets/Untitled TypeScript.ts(122,8): error TS2339: Property 'createEvent' does not exist on type '(target: any, key: string, index: number) => void'.
+16:52:53 Source file was changed, reimporting Untitled TypeScript.ts
+16:52:53 Starting TypeScript compilation...
+16:52:54 TypeScript compilation failed!
+16:52:54 Assets/Untitled TypeScript.ts(25,113): error TS2339: Property 'RGBA' does not exist on type 'typeof TextureFormat'.
+16:52:54 Assets/Untitled TypeScript.ts(27,90): error TS2339: Property 'texture' does not exist on type 'Texture'.
+16:52:54 Assets/Untitled TypeScript.ts(77,35): error TS2339: Property 'createEvent' does not exist on type '(target: any, key: string, index: number) => void'.
+16:52:54 Assets/Untitled TypeScript.ts(116,55): error TS2339: Property 'image' does not exist on type '(target: any, key: string, index: number) => void'.
+16:52:54 Assets/Untitled TypeScript.ts(119,8): error TS2339: Property 'createEvent' does not exist on type '(target: any, key: string, index: number) => void'.
+16:53:11 Source file was changed, reimporting Untitled TypeScript.ts
+16:53:11 Starting TypeScript compilation...
+16:53:11 TypeScript compilation failed!
+16:53:11 Assets/Untitled TypeScript.ts(26,113): error TS2339: Property 'RGBA' does not exist on type 'typeof TextureFormat'.
+16:53:11 Assets/Untitled TypeScript.ts(28,90): error TS2339: Property 'texture' does not exist on type 'Texture'.
+16:53:11 Assets/Untitled TypeScript.ts(78,35): error TS2339: Property 'createEvent' does not exist on type '(target: any, key: string, index: number) => void'.
+16:53:11 Assets/Untitled TypeScript.ts(117,55): error TS2339: Property 'image' does not exist on type '(target: any, key: string, index: number) => void'.
+16:53:11 Assets/Untitled TypeScript.ts(120,8): error TS2339: Property 'createEvent' does not exist on type '(target: any, key: string, index: number) => void'.
+16:53:24 Source file was changed, reimporting Untitled TypeScript.ts
+16:53:24 Asset Untitled TypeScript.ts loaded in 12 ms
+16:53:24 Starting TypeScript compilation...
+16:53:24 TypeScript compilation failed!
+16:53:24 Assets/Untitled TypeScript.ts(26,113): error TS2339: Property 'RGBA' does not exist on type 'typeof TextureFormat'.
+16:53:24 Assets/Untitled TypeScript.ts(28,90): error TS2339: Property 'texture' does not exist on type 'Texture'.
+16:53:24 Assets/Untitled TypeScript.ts(78,35): error TS2339: Property 'createEvent' does not exist on type '(target: any, key: string, index: number) => void'.
+16:53:24 Assets/Untitled TypeScript.ts(117,55): error TS2339: Property 'image' does not exist on type '(target: any, key: string, index: number) => void'.
+16:53:24 Assets/Untitled TypeScript.ts(120,8): error TS2339: Property 'createEvent' does not exist on type '(target: any, key: string, index: number) => void'.
+16:53:35 TypeScript is not compiled
+16:53:35 The Lens was not sent. Please fix the issues or try again later:
+16:53:35 TypeScript is not compiled
+16:53:37 TypeScript is not compiled
+16:53:37 The Lens was not sent. Please fix the issues or try again later:
+16:53:37 TypeScript is not compiled
+16:53:54 TypeScript is not compiled
+16:53:54 The Lens was not sent. Please fix the issues or try again later:
+16:53:54 TypeScript is not compiled
+16:53:59 TypeScript is not compiled
+16:53:59 The Lens was not sent. Please fix the issues or try again later:
+16:53:59 TypeScript is not compiled
+16:54:01 TypeScript is not compiled
+16:54:01 The Lens was not sent. Please fix the issues or try again later:
+16:54:01 TypeScript is not compiled
+16:54:08 Starting TypeScript compilation...
+16:54:09 TypeScript compilation failed!
+16:54:09 Assets/Untitled TypeScript.ts(27,113): error TS2339: Property 'RGBA' does not exist on type 'typeof TextureFormat'.
+16:54:09 Assets/Untitled TypeScript.ts(29,90): error TS2339: Property 'texture' does not exist on type 'Texture'.
+16:54:09 Assets/Untitled TypeScript.ts(79,35): error TS2339: Property 'createEvent' does not exist on type '(target: any, key: string, index: number) => void'.
+16:54:09 Assets/Untitled TypeScript.ts(118,55): error TS2339: Property 'image' does not exist on type '(target: any, key: string, index: number) => void'.
+16:54:09 Assets/Untitled TypeScript.ts(121,8): error TS2339: Property 'createEvent' does not exist on type '(target: any, key: string, index: number) => void'.
+16:57:01 Importing new asset ImageSwapExample.ts
+16:57:01 Asset ImageSwapExample.ts loaded in 15 ms
+16:57:01 Starting TypeScript compilation...
+16:57:01 TypeScript compilation failed!
+16:57:01 Assets/ImageSwapExample.ts(41,20): error TS2339: Property 'textureArray' does not exist on type '(target: any, key: string, index: number) => void'.
+16:57:01 Assets/ImageSwapExample.ts(55,62): error TS2339: Property 'textureArray' does not exist on type '(target: any, key: string, index: number) => void'.
+16:57:01 Assets/ImageSwapExample.ts(69,22): error TS2339: Property 'textureArray' does not exist on type '(target: any, key: string, index: number) => void'.
+16:57:01 Assets/ImageSwapExample.ts(83,42): error TS2339: Property 'textureArray' does not exist on type '(target: any, key: string, index: number) => void'.
+16:57:01 Assets/ImageSwapExample.ts(98,20): error TS2339: Property 'imageComponent' does not exist on type '(target: any, key: string, index: number) => void'.
+16:57:01 Assets/ImageSwapExample.ts(98,45): error TS2339: Property 'textureArray' does not exist on type '(target: any, key: string, index: number) => void'.
+16:57:01 Assets/ImageSwapExample.ts(99,20): error TS2339: Property 'imageComponent' does not exist on type '(target: any, key: string, index: number) => void'.
+16:57:01 Assets/ImageSwapExample.ts(99,61): error TS2339: Property 'textureArray' does not exist on type '(target: any, key: string, index: number) => void'.
+16:57:01 Assets/ImageSwapExample.ts(140,41): error TS2339: Property 'createEvent' does not exist on type '(target: any, key: string, index: number) => void'.
+16:57:01 Assets/ImageSwapExample.ts(145,39): error TS2339: Property 'swapInterval' does not exist on type '(target: any, key: string, index: number) => void'.
+16:57:01 Assets/ImageSwapExample.ts(171,8): error TS2339: Property 'createEvent' does not exist on type '(target: any, key: string, index: number) => void'.
+16:57:01 Assets/ImageSwapExample.ts(184,8): error TS2339: Property 'createEvent' does not exist on type '(target: any, key: string, index: number) => void'.
+16:57:01 Assets/ImageSwapExample.ts(202,8): error TS2339: Property 'createEvent' does not exist on type '(target: any, key: string, index: number) => void'.
+16:57:01 Assets/ImageSwapExample.ts(203,16): error TS2339: Property 'swapInterval' does not exist on type '(target: any, key: string, index: number) => void'.
+16:57:02 Assets/Untitled TypeScript.ts(27,113): error TS2339: Property 'RGBA' does not exist on type 'typeof TextureFormat'.
+16:57:02 Assets/Untitled TypeScript.ts(29,90): error TS2339: Property 'texture' does not exist on type 'Texture'.
+16:57:02 Assets/Untitled TypeScript.ts(79,35): error TS2339: Property 'createEvent' does not exist on type '(target: any, key: string, index: number) => void'.
+16:57:02 Assets/Untitled TypeScript.ts(118,55): error TS2339: Property 'image' does not exist on type '(target: any, key: string, index: number) => void'.
+16:57:02 Assets/Untitled TypeScript.ts(121,8): error TS2339: Property 'createEvent' does not exist on type '(target: any, key: string, index: number) => void'.
+17:00:32 Starting TypeScript compilation...
+17:00:32 TypeScript compilation failed!
+17:00:32 Assets/ImageSwapExample.ts(41,20): error TS2339: Property 'textureArray' does not exist on type '(target: any, key: string, index: number) => void'.
+17:00:32 Assets/ImageSwapExample.ts(55,62): error TS2339: Property 'textureArray' does not exist on type '(target: any, key: string, index: number) => void'.
+17:00:32 Assets/ImageSwapExample.ts(69,22): error TS2339: Property 'textureArray' does not exist on type '(target: any, key: string, index: number) => void'.
+17:00:32 Assets/ImageSwapExample.ts(83,42): error TS2339: Property 'textureArray' does not exist on type '(target: any, key: string, index: number) => void'.
+17:00:32 Assets/ImageSwapExample.ts(98,20): error TS2339: Property 'imageComponent' does not exist on type '(target: any, key: string, index: number) => void'.
+17:00:32 Assets/ImageSwapExample.ts(98,45): error TS2339: Property 'textureArray' does not exist on type '(target: any, key: string, index: number) => void'.
+17:00:32 Assets/ImageSwapExample.ts(99,20): error TS2339: Property 'imageComponent' does not exist on type '(target: any, key: string, index: number) => void'.
+17:00:32 Assets/ImageSwapExample.ts(99,61): error TS2339: Property 'textureArray' does not exist on type '(target: any, key: string, index: number) => void'.
+17:00:32 Assets/ImageSwapExample.ts(140,41): error TS2339: Property 'createEvent' does not exist on type '(target: any, key: string, index: number) => void'.
+17:00:32 Assets/ImageSwapExample.ts(145,39): error TS2339: Property 'swapInterval' does not exist on type '(target: any, key: string, index: number) => void'.
+17:00:32 Assets/ImageSwapExample.ts(171,8): error TS2339: Property 'createEvent' does not exist on type '(target: any, key: string, index: number) => void'.
+17:00:32 Assets/ImageSwapExample.ts(184,8): error TS2339: Property 'createEvent' does not exist on type '(target: any, key: string, index: number) => void'.
+17:00:32 Assets/ImageSwapExample.ts(202,8): error TS2339: Property 'createEvent' does not exist on type '(target: any, key: string, index: number) => void'.
+17:00:32 Assets/ImageSwapExample.ts(203,16): error TS2339: Property 'swapInterval' does not exist on type '(target: any, key: string, index: number) => void'.
+17:00:32 Assets/ScreenSharingService.ts(27,113): error TS2339: Property 'RGBA' does not exist on type 'typeof TextureFormat'.
+17:00:32 Assets/ScreenSharingService.ts(29,90): error TS2339: Property 'texture' does not exist on type 'Texture'.
+17:00:32 Assets/ScreenSharingService.ts(79,35): error TS2339: Property 'createEvent' does not exist on type '(target: any, key: string, index: number) => void'.
+17:00:32 Assets/ScreenSharingService.ts(118,55): error TS2339: Property 'image' does not exist on type '(target: any, key: string, index: number) => void'.
+17:00:32 Assets/ScreenSharingService.ts(121,8): error TS2339: Property 'createEvent' does not exist on type '(target: any, key: string, index: number) => void'.
+17:00:33 Resource ImageSwapExample.ts was removed from the file system. Removing from the project.
+17:00:33 Starting TypeScript compilation...
+17:00:34 TypeScript compilation failed!
+17:00:34 Assets/ScreenSharingService.ts(27,113): error TS2339: Property 'RGBA' does not exist on type 'typeof TextureFormat'.
+17:00:34 Assets/ScreenSharingService.ts(29,90): error TS2339: Property 'texture' does not exist on type 'Texture'.
+17:00:34 Assets/ScreenSharingService.ts(79,35): error TS2339: Property 'createEvent' does not exist on type '(target: any, key: string, index: number) => void'.
+17:00:34 Assets/ScreenSharingService.ts(118,55): error TS2339: Property 'image' does not exist on type '(target: any, key: string, index: number) => void'.
+17:00:34 Assets/ScreenSharingService.ts(121,8): error TS2339: Property 'createEvent' does not exist on type '(target: any, key: string, index: number) => void'.
+17:01:13 TypeScript is not compiled
+17:01:13 The Lens was not sent. Please fix the issues or try again later:
+17:01:13 TypeScript is not compiled
+17:01:15 TypeScript is not compiled
+17:01:15 The Lens was not sent. Please fix the issues or try again later:
+17:01:15 TypeScript is not compiled
+17:01:35 Starting TypeScript compilation...
+17:01:35 TypeScript compilation succeeded!
+17:01:35 Error: This file cannot be used in a ScriptComponent. Make sure that the file has a class, decorated with @component decorator
+Stack trace:
+<anonymous>@ScreenSharingService_c.js:1
+<anonymous>@ScreenSharingService_c.js:4
+17:01:39 The Lens was sent in 0.3 seconds
+17:01:49 The Lens was sent in 0.3 seconds
+17:02:06 The Lens was sent in 0.3 seconds
+17:02:39 The Lens was sent in 0.3 seconds
+17:02:54 The Lens was sent in 0.3 seconds
+17:03:00 The Lens was sent in 0.3 seconds
+17:03:34 The Lens was sent in 0.3 seconds
+17:05:29 Source file was changed, reimporting ScreenSharingService.ts
+17:05:29 Asset ScreenSharingService.ts loaded in 19 ms
+17:05:29 Starting TypeScript compilation...
+17:05:29 TypeScript compilation failed!
+17:05:29 Assets/ScreenSharingService.ts(17,113): error TS2339: Property 'RGBA' does not exist on type 'typeof TextureFormat'.
+17:05:29 Assets/ScreenSharingService.ts(24,78): error TS2339: Property 'texture' does not exist on type 'Texture'.
+17:05:29 Assets/ScreenSharingService.ts(31,43): error TS2339: Property 'darknessLevel' does not exist on type '(target: any, key: string, index: number) => void'.
+17:05:29 Assets/ScreenSharingService.ts(48,16): error TS2339: Property 'darknessLevel' does not exist on type '(target: any, key: string, index: number) => void'.
+17:05:29 Assets/ScreenSharingService.ts(59,51): error TS2339: Property 'imageComponent' does not exist on type '(target: any, key: string, index: number) => void'.
+17:05:29 Assets/ScreenSharingService.ts(62,8): error TS2339: Property 'createEvent' does not exist on type '(target: any, key: string, index: number) => void'.
+17:05:29 Assets/ScreenSharingService.ts(64,31): error TS2339: Property 'darknessLevel' does not exist on type '(target: any, key: string, index: number) => void'.
+17:05:29 Assets/ScreenSharingService.ts(70,8): error TS2339: Property 'createEvent' does not exist on type '(target: any, key: string, index: number) => void'.
+17:09:30 Source file was changed, reimporting ScreenSharingService.ts
+17:09:30 Asset ScreenSharingService.ts loaded in 12 ms
+17:09:30 Starting TypeScript compilation...
+17:09:30 TypeScript compilation failed!
+17:09:30 Assets/ScreenSharingService.ts(126,53): error TS2339: Property 'imageComponent' does not exist on type '(target: any, key: string, index: number) => void'.
+17:09:30 Assets/ScreenSharingService.ts(136,8): error TS2339: Property 'createEvent' does not exist on type '(target: any, key: string, index: number) => void'.
+17:09:30 Assets/ScreenSharingService.ts(149,8): error TS2339: Property 'createEvent' does not exist on type '(target: any, key: string, index: number) => void'.
+17:09:30 Assets/ScreenSharingService.ts(171,8): error TS2339: Property 'createEvent' does not exist on type '(target: any, key: string, index: number) => void'.
+17:09:30 Assets/ScreenSharingService.ts(173,40): error TS2339: Property 'darknessLevel' does not exist on type '(target: any, key: string, index: number) => void'.
+17:09:30 Assets/ScreenSharingService.ts(174,71): error TS2339: Property 'darknessLevel' does not exist on type '(target: any, key: string, index: number) => void'.
+17:23:22 TypeScript is not compiled
+17:23:22 The Lens was not sent. Please fix the issues or try again later:
+17:23:22 TypeScript is not compiled
+17:23:26 TypeScript is not compiled
+17:23:26 The Lens was not sent. Please fix the issues or try again later:
+17:23:26 TypeScript is not compiled
+17:42:59 Source file was changed, reimporting ScreenSharingService.ts
+17:42:59 Starting TypeScript compilation...
+17:42:59 TypeScript compilation failed!
+17:42:59 Assets/ScreenSharingService.ts(3,28): error TS2702: 'Component' only refers to a type, but is being used as a namespace here.
+17:43:25 TypeScript is not compiled
+17:43:25 The Lens was not sent. Please fix the issues or try again later:
+17:43:25 TypeScript is not compiled
+17:43:28 TypeScript is not compiled
+17:43:28 The Lens was not sent. Please fix the issues or try again later:
+17:43:28 TypeScript is not compiled
+17:43:42 TypeScript is not compiled
+17:43:42 The Lens was not sent. Please fix the issues or try again later:
+17:43:42 TypeScript is not compiled
+17:43:44 TypeScript is not compiled
+17:43:44 The Lens was not sent. Please fix the issues or try again later:
+17:43:44 TypeScript is not compiled
+17:43:55 TypeScript is not compiled
+17:43:55 The Lens was not sent. Please fix the issues or try again later:
+17:43:55 TypeScript is not compiled
+17:45:12 TypeScript is not compiled
+17:45:12 The Lens was not sent. Please fix the issues or try again later:
+17:45:12 TypeScript is not compiled
+17:45:21 TypeScript is not compiled
+17:45:21 The Lens was not sent. Please fix the issues or try again later:
+17:45:21 TypeScript is not compiled
+17:45:28 TypeScript is not compiled
+17:45:28 The Lens was not sent. Please fix the issues or try again later:
+17:45:28 TypeScript is not compiled
+17:45:38 Starting TypeScript compilation...
+17:45:38 TypeScript compilation failed!
+17:45:38 Assets/ScreenSharingService.ts(3,28): error TS2702: 'Component' only refers to a type, but is being used as a namespace here.

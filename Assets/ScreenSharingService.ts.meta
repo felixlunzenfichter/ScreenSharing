@@ -1,0 +1,42 @@
+- !<AssetImportMetadata/5a7c09fb-e8af-483e-a7d4-2ac8a952c8c8>
+  ImportedAssetIds:
+    TypeScriptAsset: !<reference> ecae908a-f259-43f2-8cac-4293c863d254
+  ImporterName: TypeScriptAssetImporter
+  PrimaryAsset: !<reference> ecae908a-f259-43f2-8cac-4293c863d254
+  PackageType: NotAPackage
+  PackagePolicy: CannotBeUnpacked
+  ExtraData:
+    {}
+  AssetDataMap:
+    TypeScriptAsset: !<own> 8268c6b0-2199-416c-8f84-4d7beaa8d6aa
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<TypeScriptAssetData/8268c6b0-2199-416c-8f84-4d7beaa8d6aa>
+  SvgIcon: ""
+  Description: ""
+  InternalVersion: 0
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: d20c7ff6-8da0-463c-8673-a6b8774814d8
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  CurrentVisibility: Editable
+  MaxVisibility: Editable
+  ScriptInputsHidden:
+    darknessLevel: false
+    imageComponent: false
+  ScriptTypesHidden:
+    {}
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  DefaultScriptInputs:
+    - imageComponent: !<reference.Image> 00000000-0000-0000-0000-000000000000
+      darknessLevel: 0.200000
+  ScriptTypes:
+    -
+      {}
+  InputLines:
+    - // @input Component.Image imageComponent
+    - // @input float darknessLevel = 0.2
